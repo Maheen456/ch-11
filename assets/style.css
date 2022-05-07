@@ -1,0 +1,16 @@
+*{
+    padding: auto;
+    margin:20px;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+#main{
+font-weight: bolder;
+}
+#abbr{
+    margin:20px;
+    text-shadow: 2px 2px 8px grey;
+}
+h4{
+    text-align: center;
+}
